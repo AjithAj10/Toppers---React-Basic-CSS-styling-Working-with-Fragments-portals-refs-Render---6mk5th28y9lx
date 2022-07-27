@@ -2,7 +2,9 @@ h1 {
     color: #27aedb;
     text-align: center;
     }
-    
+.percent{
+    margin-bottom: 1rem;
+}
 
 button{
     color: #27aedb;
